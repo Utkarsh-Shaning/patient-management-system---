@@ -1,5 +1,7 @@
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
-![Pydantic](https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg)
+<p align="left">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="80">
+  <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-light.svg" alt="Pydantic" height="60" style="margin-left: 10px;">
+</p>
 
 
 # PATIENT MANAGEMENT SYSTEM
