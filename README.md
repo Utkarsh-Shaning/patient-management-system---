@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="150"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/pydantic/pydantic-docs/main/docs/images/logo.png" alt="Pydantic" width="120"/>
-</p>
+![FastAPI](https://vectorseek.com/wp-content/uploads/2023/03/FastAPI-Logo-Vector.svg)
+![Pydantic](https://brandfetch.com/pydantic.dev/logo.svg)
 
 # PATIENT MANAGEMENT SYSTEM
 -A lightweight backend service for managing patient records using FastAPI and JSON-based storage.
