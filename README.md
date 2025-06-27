@@ -1,4 +1,7 @@
 ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+![Pydantic](https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg)
+
+
 # PATIENT MANAGEMENT SYSTEM
 -A lightweight backend service for managing patient records using FastAPI and JSON-based storage.
 
