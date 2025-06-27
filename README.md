@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="80">
-  <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/static/img/pydantic-logo.svg" alt="Pydantic" height="60" style="margin-left: 10px;">
+<p align="center">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="150"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/pydantic/pydantic-docs/main/docs/images/logo.png" alt="Pydantic" width="120"/>
 </p>
 
 # PATIENT MANAGEMENT SYSTEM
