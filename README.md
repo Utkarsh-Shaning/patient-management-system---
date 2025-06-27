@@ -1,8 +1,7 @@
-# Project Name
+# PATIENT MANAGEMENT SYSTEM
+-A lightweight backend service for managing patient records using FastAPI and JSON-based storage.
 
-Brief one-liner description of your project.
-
-## 🚀 Features
+🚀 Features
 - Lightweight backend built with FastAPI
 - JSON file-based data storage (no external database)
 - Clean data models using Pydantic
@@ -10,14 +9,14 @@ Brief one-liner description of your project.
 - Custom JSON responses using `JSONResponse`
 - Structured project layout for scalability and clarity
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 - Python 3.11+
 - FastAPI
 - Pydantic
 - Uvicorn
 - JSON-based data persistence (no external database)
 
-## 📦 Installation
+📦 Installation
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
