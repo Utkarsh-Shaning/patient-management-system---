@@ -1,4 +1,4 @@
-![FastAPI Logo](https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/logo-margin/logo-teal.png)
+![FastAPI Logo](https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png)
 
 # PATIENT MANAGEMENT SYSTEM
 -A lightweight backend service for managing patient records using FastAPI and JSON-based storage.
