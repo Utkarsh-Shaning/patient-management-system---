@@ -1,4 +1,5 @@
 ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+![Pydantic](https://avatars.githubusercontent.com/u/80110750?s=200&v=4)
 
 
 # PATIENT MANAGEMENT SYSTEM
